@@ -23,6 +23,15 @@ This case study supports multiple platforms:
 Power BI / Tableau / Excel - For dashboard design.
 GitHub - For version control and collaboration.
 
+Structure Of The Project
+Salt_Case_Study/
+│-- data/                     # Raw & cleaned datasets
+│   ├── SaltCaseStudy_Dataset.xlsx  
+│-- dashboards/               # Power BI or Tableau dashboard files
+│   ├── SaltAnalytics-DataAnalytics.pbix  
+│-- documentation/            # Reports, README, and project insights
+│   ├── README.md  
+
 Sales Performance Overview Dashboard
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/39fb184a-b1aa-4831-a9a3-b61013a306ae" />
 
